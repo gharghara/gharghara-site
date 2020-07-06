@@ -63,6 +63,11 @@ h2 {
   font-size: 24px;
 }
 
+.changeOnHover:hover {
+  color: $blue;
+  text-decoration: underline;
+}
+
 @media (min-width: 769px){
 	.post h2::before, .post h2::after {
 	    content: "";
