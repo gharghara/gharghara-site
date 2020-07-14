@@ -14,7 +14,7 @@
   </head>
 
   <body>
-    <div id="bar"></div>
+    <!-- <div id="bar"></div> -->
     <div class="wrapper-container">
       <div class="wrapper-masthead">
         <div class="container">
@@ -22,15 +22,16 @@
             <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
 
             <div class="site-info">
-              <!-- <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1> -->
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p> 
             </div>
 
             <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/getting-started">Getting Started</a>
+              <!-- <a href="{{ site.baseurl }}/">Home</a> -->
+              <a href="{{ site.baseurl }}/bakhele">Bakhele</a>
               <a href="{{ site.baseurl }}/search">Search</a>
               <a href="{{ site.baseurl }}/about">About</a>
+              <a href="{{ site.baseurl }}/categories">Donate</a>
             </nav>
           </header>
         </div>
@@ -45,8 +46,13 @@
       <div class="wrapper-footer">
         <div class="container">
           <footer class="footer">
-            Why am I not looking for a : {search-box} hesitate.
-          </footer>
+          <div class="footer-column-1">      
+            Why am I not looking for a :<br>{search-box}
+          </div>
+          <div class="footer-column-2">
+            hesitate.          
+          </div>
+          </footer>          
         </div>
       </div>
     </div>

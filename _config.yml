@@ -6,13 +6,13 @@
 name: Gharghara
 
 # Name of the author
-author: Ghargharas
+author: Ghar
 
 # Short bio or description (displayed in the header)
-description: Something real for all fairies' tale,
+description: Something real for all fairy tales.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/gharghara.png
+avatar: /images/000028.jpg
 
 #
 # Flags below are optional
@@ -86,7 +86,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 6
+paginate: 16
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
