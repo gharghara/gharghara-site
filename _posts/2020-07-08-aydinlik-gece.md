@@ -1,8 +1,13 @@
 ---
 layout: post
-title: Verklärte Nacht, Richard Dehmel
+title: Verklärte Nacht
+author: Richard Dehmel
 categories: mişmaş
 ---
+
+Şönberg versiyonu...
+link1
+link2
 
 ### Aydınlık Gece
 
