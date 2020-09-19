@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <h3 class="changeOnHover">{{ post.title }} &#171; &#187; {{ post.author }}</h3>
+        <h3 class="changeOnHover">{{ post.title }} &#124; {{ post.author }}</h3>
         <!-- <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div> -->
@@ -19,8 +19,12 @@ layout: default
     </article>
   {% endfor %}
 
-  Copyright © 2020
+
+  <br>
+  <br>
+  Copyright © 2020  <br>
   Creative Commons
+  
 
   <!-- pagination -->
   {% if paginator.total_pages > 1 %}

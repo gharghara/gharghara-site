@@ -3,9 +3,9 @@ layout: page
 title: Search
 permalink: /search/
 ---
-
+Why am I not looking for a:
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search through the blog posts...">
+    <input type="text" id="search-input" placeholder="Why am I not looking for a ... ?">
     <ul id="results-container"></ul>
 </div>
 

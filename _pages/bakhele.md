@@ -1,30 +1,39 @@
 ---
 layout: page
-title: Burası Bakhele
+title:
 permalink: /bakhele/
 ---
 
-## Step 1) Fork Reverie to your User Repository
+### On language,
+### You can find on bet.Gharghara:,
+### A word on bet.Gharghara,
+
+If any of the content is in a language (or a writing system) that means something to you... I did all I can, apparently. Church. Do not use Google Translate, just leave it. Available content options are at the moment: words in Turkish, words in English, music, maybe some Lilypond related code, maybe some... It is good to know that Google Translate or Amazon or OpenAI does not translate music as of now.
+
+Gharghara is about to entertain with a dropped h &mdash; for a reason. Here you will find: Lilypond shit, Sibelius shit, excerpts from scores, words, all piled up. Again feel free to enjoy the content again.
 
 
-## Step 2) Customize and view your site
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+### *commercial break* : rover &#183; mitsubishi &#183; fabriano &#183; ford &#183; eczacıbaşı &#183; behringer &#183; colgate : *commerical break*
 
-### Step 3) Publish your first blog post
 
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
 
-## Using Categories in Reverie
+All you see on bet.Gharghara,  
+apart from borrowed content from other composers, artists, writers, etc. that is directly or indirectly referred to,  
+is,  
+I believe,  
+mine,  
+and protected under Copyright or Creative Commons licenses.  
+The borrowed content from other composers, artists, writers, etc.,  
+I believe,  
+is also protected under Copyright or Creative Commons licenses.  
 
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
 
-```md
-categories: JavaScript
-```
 
-For adding multiple categories:
+### *commercial break* : samsung &#183; citroën &#183; lipton &#183; beko &#183; faber and faber &#183; händel is a great composer &#183; hayat su : *commercial break*  
 
-```md
-categories: [PHP, Laravel]
-```
+
+
+Do not share, do not distribute, any material yourself if you are a blockhead (like myself) and if you are not concsious of your actions. Sharing is not always your best friend. Instead, send them a link: [gharghara.in](gharghara.in)
+
+Finally, always, and forever, hesitate.

@@ -2,12 +2,19 @@
 layout: post
 title: Verklärte Nacht
 author: Richard Dehmel
-categories: mişmaş
+categories: Words
 ---
 
-Şönberg versiyonu...
-link1
-link2
+Şönberg değişkesine göre...  
+
+Farklar, kısaca:  
+[https://www.lieder.net/lieder/get_text.html?TextId=4381&RF=0](https://www.lieder.net/lieder/get_text.html?TextId=4381&RF=0)
+
+Arnold Schönberg Center'da:
+[http://archive.schoenberg.at/compositions/werke_einzelansicht.php?werke_id=420&herkunft=allewerke](http://archive.schoenberg.at/compositions/werke_einzelansicht.php?werke_id=420&herkunft=allewerke)
+
+--- --- ---  
+ <br> 
 
 ### Aydınlık Gece
 
